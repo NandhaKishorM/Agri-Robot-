@@ -13,7 +13,8 @@
 # Training the model using colab and coverting to openVINO model
 use this colab link 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_K5FxxWU_yEn9JHKa6AOHjoY5Z5Prclv?usp=sharing)
-The model is found in pest-detection folder
+
+The resulting models are found in pest-detection folder
 ## Running the model 
 1. git clone https://github.com/luxonis/depthai
 2. install dependencies
