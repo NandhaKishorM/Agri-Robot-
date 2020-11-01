@@ -38,7 +38,7 @@ all the arduino codes are found under the scripts/arduino folder. Use the arduin
 - [x] Build a robotic arm and stepper controll system
 - [x] Trained a pest detection model using SSD mobilenet and converted it to a openVINO model
 - [x] Build 2 program one to move the system in z axis using stepper motor and other to move the arm. These two programs work asynchronously.
-- [ ] Robotic motion controll
+- [ ] Rover movement controll
 - [ ] pesticide spraying mechanism synchronous with the arm
 - [ ] Field testing and eliminate all the wires. We didn't eliminate the OAK-D powering cord due to the power need for the module
 
