@@ -40,5 +40,7 @@ all the arduino codes are found under the scripts/arduino folder. Use the arduin
 - [x] Build 2 program one to move the system in z axis using stepper motor and other to move the arm. These two programs work asynchronously.
 - [ ] Robotic motion controll
 - [ ] pesticide spraying mechanism synchronous with the arm
+- [ ] Field testing and eliminate all the wires. We didn't eliminate the OAK-D powering cord due to the power need for the module
+
 
 
