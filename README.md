@@ -17,10 +17,14 @@ The model is found in pest-detection folder
 ## Running the model 
 1. git clone https://github.com/luxonis/depthai
 2. install dependencies
-3. move the folder in resources/nn directory and run
+3. move the folder in resources/nn directory
+4. move the depthai.py from scripts directory to the cloned directory, and also move the script mobilenet_ssd_handler.py from depthai_helpers to cloned directory depthai_helpers.
+and run
 ```
 `python3 depthai.py -dd -cnn pest-detection
+
 ```
+5. The changes include taking the x,y,z location from mobilenet_ssd_handler.py. From depthai.py, calculating the servo rotation angle using inverese kinematics. sending the angle data to the arduino using serial communication.
 # arduino programming and inverese kinematics
 ## the robotic arm arduino code
 ![alt text](https://github.com/kishorkuttan/Agri-Robot-/blob/master/IMG_20201101_133542.JPG)
