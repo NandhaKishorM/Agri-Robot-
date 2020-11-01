@@ -2,6 +2,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_K5FxxWU_yEn9JHKa6AOHjoY5Z5Prclv?usp=sharing)
 # Demo video
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/lSZ1eWDyfjs/0.jpg)](https://www.youtube.com/watch?v=lSZ1eWDyfjs)
+## Project report link: https://drive.google.com/file/d/1x037wt5zMpPY5sJrARwPup604T6NJgay/view?usp=sharing
 
 # Agri Robot snapshots
 ![alt text](https://github.com/kishorkuttan/Agri-Robot-/blob/master/IMG_20201101_151716.JPG)
