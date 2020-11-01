@@ -39,7 +39,7 @@ Th arduino codes are found under the scripts/arduino folder. Use the arduino fil
 
 ![alt text](https://github.com/kishorkuttan/Agri-Robot-/blob/master/IMG_20201101_133256.JPG)
 
- Use the arduino file under communication. That is stepper.ino to control the rail syste. We used seperate arduino UNO for the control.
+ Use the arduino file under communication. That is stepper.ino to control the rail system. We used seperate arduino UNO for the control.
 ### Agri robot using OAK-D
 
 - [x] Build a robotic arm and stepper controll system.
