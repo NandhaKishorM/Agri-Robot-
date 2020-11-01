@@ -19,7 +19,7 @@ The resulting models are found in pest-detection folder.
 ## Running the model 
 1. git clone https://github.com/luxonis/depthai
 2. install dependencies.
-3. move the folder in resources/nn directory.
+3. move the pest-detection folder in resources/nn directory.
 4. move the depthai.py from scripts directory to the cloned directory, and also move the script mobilenet_ssd_handler.py from depthai_helpers to cloned directory depthai_helpers.
 and run
 ```
