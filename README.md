@@ -23,7 +23,7 @@ The resulting models are found in pest-detection folder.
 4. move the depthai.py from scripts directory to the cloned directory, and also move the script mobilenet_ssd_handler.py from depthai_helpers to cloned directory depthai_helpers.
 and run
 ```
-`python3 depthai.py -dd -cnn pest-detection
+`python3 depthai.py -cnn pest-detection
 
 ```
 5. The changes include taking the x,y,z location from mobilenet_ssd_handler.py. From depthai.py, calculating the servo rotation angle using inverese kinematics. sending the angle data to the arduino using serial communication.
