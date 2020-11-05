@@ -5,7 +5,7 @@
 ## Project report link: https://drive.google.com/file/d/1x037wt5zMpPY5sJrARwPup604T6NJgay/view?usp=sharing
 
 # Agri Robot snapshots
-![alt text](https://github.com/kishorkuttan/Agri-Robot-/blob/master/IMG_20201101_151716.JPG)
+![alt text](https://github.com/kishorkuttan/Agri-Robot-/blob/master/IMG_20201101_133109.JPG)
 ![alt text](https://github.com/kishorkuttan/Agri-Robot-/blob/master/IMG_20201101_133147.JPG)
 ![alt text](https://github.com/kishorkuttan/Agri-Robot-/blob/master/IMG_20201101_133209.JPG)
 ![alt text](https://github.com/kishorkuttan/Agri-Robot-/blob/master/IMG_20201101_135119.JPG)
