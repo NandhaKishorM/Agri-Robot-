@@ -6,6 +6,7 @@
 
 # Agri Robot snapshots
 ![alt text](https://github.com/kishorkuttan/Agri-Robot-/blob/master/bot.jpg)
+![alt text](https://github.com/kishorkuttan/Agri-Robot-/blob/master/IMG_20201101_151716.JPG)
 ![alt text](https://github.com/kishorkuttan/Agri-Robot-/blob/master/IMG_20201101_133147.JPG)
 ![alt text](https://github.com/kishorkuttan/Agri-Robot-/blob/master/IMG_20201101_133209.JPG)
 ![alt text](https://github.com/kishorkuttan/Agri-Robot-/blob/master/IMG_20201101_135119.JPG)
